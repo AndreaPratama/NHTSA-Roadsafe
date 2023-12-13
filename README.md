@@ -59,6 +59,25 @@ Utilizing SQL, the data underwent rigorous cleaning and transformation processes
 
 ### _Additional information: For example you can see the changes in the timestamp column_
 
+### Write SQL Queries in each case
+
+| Top 10 States with the Most Accidents                                           |                               Result |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ![](nhtsa_top10.png)                                                            |                                                   ![](result_top10.png) |
+| Percentage of Accidents Caused by Drunk Drivers                                |                                |
+| ![](nhtsa_drunk_status.png)                                                             |                                                            ![](result_drunk_status.png) |
+| Percentage of Accidents in Rural and Urban Areas                                |                                |
+| ![](nhtsa_area.png)                                                             |                                                            ![](result_area.png) |
+| Number of Accidents by Day                               |                                |
+| ![](nhtsa_day.png)                                                             |                                                            ![](result_day_accident.png) |
+| Number of Accidents by Month                                |                                |
+| ![](nhtsa_month.png)                                                             |                                                            ![](result_month_accident.png) |
+| Hour with the Most Accidents                               |                                |
+| ![](nhtsa_hour_accident.png)                                                             |                                                            ![](result_crash_hour.png) |
+
+### _Additional information: This project initially used sql as data cleaning and validation, while for visualization using Excel/spreadsheets. Then I upgraded when I was able to Power BI with a few changes._
+_for visualization in excel/spreadsheets you can see here[Spreadsheets](https://docs.google.com/spreadsheets/d/1HdKMd7dC9lPaufdaAg1IZ66tBdSbk8cIbod_ibwFRbI/edit#gid=1227326390)_
+
 
 ## Modeling
 
