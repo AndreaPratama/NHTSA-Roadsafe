@@ -107,6 +107,7 @@ The analysis spans various dimensions, including accident trends, risk factors, 
 - Filter Function
 - Buttons
 - Interactive Dashboard
+- Add illustrations for better understanding
 
 ### You can interact with Report Here _[Novypro](https://www.novypro.com/project/nhtsa-roadsafe)_
 
