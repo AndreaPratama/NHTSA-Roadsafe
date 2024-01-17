@@ -109,6 +109,8 @@ The analysis spans various dimensions, including accident trends, risk factors, 
 - Interactive Dashboard
 - Add illustrations for better understanding
 
+![](NHTSANew.png)
+
 ### You can interact with Report Here _[Novypro](https://www.novypro.com/project/nhtsa-roadsafe)_
 
 ## Conclusion & Recommendation
